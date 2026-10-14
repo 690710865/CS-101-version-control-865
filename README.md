@@ -1,5 +1,5 @@
 # CS-101-version-control-865
-##my cs profile
+## My cs profile
 
 ## About Me
 
