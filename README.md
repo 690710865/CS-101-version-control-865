@@ -10,7 +10,7 @@
 ## My Leaning Goal
 -LEARN  PYTHON 
 
--Learn c
+-Learn c programing
 
 ## Techology interests
 -game
