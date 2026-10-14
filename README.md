@@ -12,3 +12,9 @@
 
 -Learn c
 
+## Techology interests
+-game
+
+## skills 
+-teamwork
+
